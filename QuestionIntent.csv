@@ -1,0 +1,70 @@
+questions,intent
+Am I at risk if I go to a funeral or visitation service for someone who died of COVID-19?,death
+Am I at risk if I touch someone who died of COVID-19 after they have passed away?,death
+How can loved ones safely handle belongings of someone who died from COVID-19?,death
+Hi,greeting
+Hello,greeting
+What is COVID-19?,info
+Can COVID-19 be transmitted when a person is not showing symptoms?,info
+What are the symptoms of COVID-19?,info
+What is the incubation period for COVID-19?,info
+What is a novel coronavirus?,info
+What are the symptoms and complications that COVID-19 can cause?,info
+What are the symptoms of COVID-19?,info
+How long is the incubation and transmission period for COVID-19?,info
+How long is the incubation period for COVID-19,info
+Can I get COVID-19 from my pets or other animals?,pets
+Do I need to get my pet tested for COVID-19?,pets
+Can animals carry the virus that causes COVID-19 on their skin or fur?,pets
+Should I avoid contact with pets or other animals if I am sick with COVID-19?,pets
+What animals can get COVID-19?,pets
+Should I worry about my pet cat?,pets
+Can I catch COVID-19 from my pet,pets
+What is physical (social) distancing and how does it help to minimize COVID-19?,precaution
+"I am told to stay at home as much as possible, but I do not have any symptoms nor have I travelled outside of Canada. Can I go outside?",precaution
+How can I protect myself from getting COVID-19?,precaution
+Should the general population in Canada wear masks to protect themselves from COVID-19?,precaution
+Are gatherings allowed to take place?,precaution
+Does CDC recommend the use of masks to prevent COVID-19?,precaution
+Should contact lens wearers take special precautions to prevent COVID-19?,precaution
+Should I use soap and water or hand sanitizer to protect against COVID-19?,precaution
+What cleaning products should I use to protect against COVID-19?,precaution
+What should people at higher risk of serious illness with COVID-19 do?,precaution
+"I was recently around someone who has COVID-19, but I feel fine. Should I stay at home?",precaution
+"How often do surfaces (such as handrails and in bathrooms) at public pools, hot tubs, or water playgrounds (such as at an apartment complex or owned by a community) need to be cleaned and disinfected?",precaution
+What can I do to protect myself and prevent the spread of disease?,precaution
+I am well and asymptomatic. Should I use a mask?,precaution
+Should I wear a mask to protect myself from catching the COVID-19 virus?,precaution
+What are the risks of getting COVID-19?,risk
+Is there a risk of contracting COVID-19 if I touch a surface that was potentially contaminated?,risk
+Are Canadians at risk for contracting COVID-19 if they receive a package or products shipped from other countries?,risk
+Can COVID-19 be transmitted through food?,risk
+What is my risk of getting COVID-19 in Canada?,risk
+"Can I get COVID-19 from food (including restaurant take-out, produce, refrigerated, or packaged food) or drinking water?",risk
+"Am I at risk for COVID-19 from mail, packages, or products?",risk
+Who is at higher risk for serious illness from COVID-19?,risk
+Should I worry about COVID-19?,risk
+Who is at risk of developing severe illness?,risk
+Is it safe to receive a package from an area where COVID-19 has been reported?,risk
+How likely am I to catch COVID-19,risk
+How does COVID-19 spread?,spread
+How does the virus spread?,spread
+Will warm weather stop the outbreak of COVID-19?,spread
+What is community spread?,spread
+Can mosquitoes or ticks spread the virus that causes COVID-19?,spread
+How does COVID-19 spread?,spread
+Can the virus that causes COVID-19 be transmitted through the air?,spread
+How likely am I to catch COVID-19?,spread
+Is there a connection between COVID -19 and environment temperature?,spread
+Will warm weather stop the outbreak of COVID-19?,spread
+What is contact tracing?,tracing
+Who is considered a close contact to someone with COVID-19?,tracing
+Am I considered a close contact if I was wearing a mask?,tracing
+What will happen during contact tracing if I am diagnosed with COVID-19?,tracing
+What will happen during contact tracing if I have been around someone with COVID-19?,tracing
+What will happen with my personal information during contact tracing?,tracing
+I have recently returned from a trip outside of Canada and I have symptoms. What do I need to do?,trip
+I have recently returned from a trip outside of Canada and I do not have any symptoms. What do I need to do?,trip
+I have to travel for essential reasons. How can I reduce my risk of infection?,trip
+I am a Canadian travelling abroad and I need support. Who can I contact?,trip
+Are Canadians currently able to travel to the U.S.?,trip
